@@ -1,3 +1,4 @@
+
 def age():
     s=input("enter your name")
     a=int(input("enter your current year"))
@@ -5,7 +6,6 @@ def age():
     c=a-b
     print(s,"your age is ",c)
 age()
-<<<<<<< HEAD
 def are():
     s=input("enter your name")
     a=int(input("enter the length of rectangle"))
@@ -13,5 +13,4 @@ def are():
     c=a*b
     print(s,"the area of rectangle is ",c)
 are()
-=======
->>>>>>> 1e590b29e2c3b804634ac99d4c898c7828941118
+print("hello world")

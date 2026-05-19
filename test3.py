@@ -13,5 +13,9 @@ def are():
     c=a*b
     print(s,"the area of rectangle is ",c)
 are()
-=======
->>>>>>> 1e590b29e2c3b804634ac99d4c898c7828941118
+def per():
+    s=input("enter your name")
+    a=int(input("enter the length of rectangle"))
+    b=int(input("enter the breadth of rectangle"))
+    c=2*(a+b)
+    print(s,"the perimeter of rectangle is ",c)
